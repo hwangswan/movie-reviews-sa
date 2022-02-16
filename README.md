@@ -8,5 +8,6 @@ Using NBMultinomial and CountVectorizer
 - Submission accuracy (using full training dataset model): 0.59434
 
 ## Second attempt
-Using LogisticRegression and Tf-IDf vectorizer
-
+Using BERTv2 with a simple CNN design.
+- Training accuracy: 0.66
+- Submission accuracy: 0.65136
